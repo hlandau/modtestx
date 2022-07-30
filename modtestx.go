@@ -1,5 +1,5 @@
 package modtestx
 
 func ValueX() int {
-	return 1000
+	return 1001
 }
